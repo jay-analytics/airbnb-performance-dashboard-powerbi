@@ -22,7 +22,6 @@ Note: The original dataset exceeds GitHub size limits, so dataset is not provide
 
 * Full dataset can be accessed from the source link above.
 
-
 ---
 
 ## 🎯 Key Insights
@@ -79,22 +78,6 @@ The dataset includes:
 * DAX Calculations
 * Dashboard Design
 * Business Insight Generation
-
----
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Interact with filters and visuals
-
----
-
-## 📌 Future Improvements
-
-* Add real-time data integration
-* Include predictive analysis
-* Enhance UI/UX
 
 ---
 
