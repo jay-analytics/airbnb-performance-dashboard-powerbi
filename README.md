@@ -40,7 +40,7 @@ This project uses publicly available Airbnb data.
 
 ### 🔹 Overview
 
-![Overview](images/dashboard_overview.png)
+![Overview](dashboard_overview.png)
 
 ### 🔹 Market Share by City
 
