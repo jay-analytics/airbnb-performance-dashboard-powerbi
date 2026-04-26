@@ -44,11 +44,11 @@ This project uses publicly available Airbnb data.
 
 ### 🔹 Market Share by City
 
-![Market Share](images/market_share_and_ratings.png)
+![Market Share](market_share_and_ratings.png)
 
 ### 🔹 Ratings Analysis
 
-![Ratings](images/market_share_and_ratings.png)
+![Ratings](market_share_and_ratings.png)
 
 ---
 
