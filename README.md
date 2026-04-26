@@ -14,12 +14,12 @@ The dashboard focuses on:
 ## 📂 Dataset
 
 This project uses publicly available Airbnb data.
+Note: The original dataset exceeds GitHub size limits, so dataset is not provided here.
 
 🔗 Original Source: https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 ### Notes:
 
-* The dataset has been cleaned and transformed for analysis.
 * Full dataset can be accessed from the source link above.
 
 
